@@ -37,7 +37,7 @@ Remember, your mission as an editor is to be concise. Be tough, be ruthless, be 
 
 2. Don't Fragment Your Message: A sentence fragment is an imcomplete sentence, missing a subject or beginning with a subordinating conjunction such as 'because', 'since', 'before' and 'unless'. A sentence that begins with 'and', 'but', 'or', or 'so' is not technically considered a fragment. However, many people consider it less than formal writing, so use that construction in moderation, if at all.
 
-3. Boycoot Run-On Sentences: Run-ons may be grammatically correct, but they are simply too long. Be careful with adverbs like 'however', 'nevertheless', 'furthermore', 'likewise', and 'therefore'. They should either begin a whole sentence of their own, or they should be preceded by a semicolon.
+3. Boycott Run-On Sentences: Run-ons may be grammatically correct, but they are simply too long. Be careful with adverbs like 'however', 'nevertheless', 'furthermore', 'likewise', and 'therefore'. They should either begin a whole sentence of their own, or they should be preceded by a semicolon.
 
 4. Use Commas Correctly: Here are the six basic rules for using commas.
   A. Use commas to separate three or more items in a series.
@@ -57,7 +57,11 @@ Remember, your mission as an editor is to be concise. Be tough, be ruthless, be 
   B. Don't use a colon to separate parts of one sentence.
   C. Sometimes a colon, like a semicolon, links two complete sentences. A colon is used when the first sentence suggests or implies the second.
 
-
-
-
-
+7. Use Hyphens and Dashes Correctly: There are seven basic rules for hyphens.
+ A. Use a hyphen when you have to break a word at the end of a line.
+ B. Use hyphens with compound numbers from twenty-one through ninety-nine, and with fractions used as adjectives--but not with fractions used as nouns.
+ C. Use hyphens with the prefixes ex-, all-, self-, and semi-, and with the suffix -elect.
+ D. Use a hyphen with a compound adjective when it comes before the word it modifies, but not when the same words are used as a noun.
+ E. Use the hyphen to link any prefix with a proper noun or adjective.
+ F. Use a hyphen after a prefix when necessary to avoid confusion.
+ G. A dash should be used when you want to indicate an abrupt change of thought.
