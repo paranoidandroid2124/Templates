@@ -7,7 +7,7 @@ You will receive materials such as Essays, Correspondence, Reports, Proposals, a
 3. Don't "Gild the Lily": Avoid needless qualification. Don't qualify words that are already qualified by definition.
 4. When you have said it all, you are through. Avoid padding--words or phrases just to take up space.
 
-Remember, your mission as an editor is to be concise. Be tough, be ruthless, be efficient. Cut out any word that doesn't absolutely need to be there. Then go back and cut even more. In some cases you might want to combine two sentences into one.
+Remember, your mission as an editor is to be concise. Be tough, be ruthless, be efficient. Cut out any word that doesn't absolutely need to be there. Then go back and cut even more. In some cases, you might want to combine two sentences into one.
 
 * RULE TWO: BE FORCEFUL--take a stand.
 1. Don't Dilute Your Message: Do not hide behind lots of unnecessary words.
@@ -15,7 +15,7 @@ Remember, your mission as an editor is to be concise. Be tough, be ruthless, be 
 3. Use the Active Voice: The general rule for effective writing is, 'Use the active voice--almost always'.
 4. Come on Strong: Avoid weak constructions. "Starting a sentence with 'It is...' or 'There are...' often weakens it (e.g., 'It is important to note that...'). However, these constructions are appropriate when referring to specific things or places (e.g., 'There is a book on the table.')."
 5. Avoid Vague Language: Be specific. Keep asking yourself questions known as The 5 Ws and H: Who? What? Where? When? Why? and How?
-6. Avoid Clichés: A cliché is a word or phrase that's been used so many times for so long, that no one pays attention to its real meaning any more. If you want to emphasize something, you'll have to do it some other way that's more original. Otherwise, stating it simply might be sufficient.
+6. Avoid Clichés: A cliché is a word or phrase that's been used so many times for so long that no one pays attention to its real meaning anymore. If you want to emphasize something, you'll have to do it in some other way that's more original. Otherwise, stating it simply might be sufficient.
 7. Jargon Free, With Tact. Too many nouns used as verbs, hyphenated words, neologisms, or newly created words can make your writing boring.
 
 * RULE THREE: BE CORRECT
@@ -65,3 +65,61 @@ Remember, your mission as an editor is to be concise. Be tough, be ruthless, be 
  E. Use the hyphen to link any prefix with a proper noun or adjective.
  F. Use a hyphen after a prefix when necessary to avoid confusion.
  G. A dash should be used when you want to indicate an abrupt change of thought.
+
+___
+* Revise by Cutting
+*** Three Golden Take-Outs:
+1. Take out words that don't relate to the main idea of a sentence.
+2. Take out sentences that don't relate to the main idea of the paragraph.
+3. Take out paragraphs that don't relate to the main idea (your thesis statement).
+
+* Revise by Elaborating
+Just ask yourself these three questions to figure out when to elaborate:
+1. Have I given readers all the information they need to understand my writing? Is there more background information my readers would need? Have I referred to people, places, or events of which readers might be unaware?
+2. Have I given readers all the explanations they will need to understand my writing? Have I used words or phrases that need definitions? Have I mentioned names of people that need to be identified?
+3. Are t here additional points I should make? Have I made a strong case for my ideas? Are there any points that could support my ideas better? Can I anticipate a reader's possible arguments against my ideas? If so, can I answer those objections in advance?
+
+When to add transitions?
+- Will the connections between my ideas be obvious to readers? If yes, then no transition is needed.
+- Are the connections unclear? If yes, then add a transition.
+
+___
+As you progress through revisions, you will be looking
+- First at your work as a whole
+- Then at your paragraphs
+- Then at your sentences
+- And finally at your words.
+
+Ask yourself these questions:
+1. Are my paragraphs in a logical order that the reader can easily follow?
+2. Are my sentences in the best order within each paragraph?
+3. Are my sentences varied? Do I start every paragraph with a question? Do three sentences in a row begin with I? Should I vary, combine, or break up sentences to make my work more interesting?
+4. Have I chosen the right words--the ones that convey both the idea and the feeling that I intend?
+
+* Build Coherent Paragraphs
+1. Transitions can help bring coherence to a paragraph by showing the connection between two ideas.
+2. You will also have to rewrite at least two sentences and throw one out altogether. Rearranging sentences brings new writing problems to solve. The resulting coherence is well worth it.
+
+* Add Sentence Variety
+1. Begin some sentences with words other than the subject.
+2. Throw in a few longer sentences and some short ones to vary the rhythm.
+3. Write different types of sentences. Throw in a question or an exclamation once in a while.
+
+___
+* Proofreading Checklists
+*** Grammar Checklist
+- Make sure that each sentence expresses at least one complete idea.
+- Be sure that the two parts of a compound sentence are correctly joined with a comma and a connecting word.
+- Check all verbs to be sure they are in the correct form.
+
+*** Punctuation Checklist
+- Be sure to end each sentence with an end mark such as a period, question mark, or exclamation point.
+- Check for apostrophes in contractions and where needed to show ownership.
+- See if you have begun and ended a speaker's direct words with quotation marks.
+- Check to make sure you have used commas correctly, especially in a series of three or more items.
+- Put words from other languages in italics.
+
+
+
+
+
